@@ -102,7 +102,7 @@ int main() {
     } else if (populacao1 > populacao2) {
         printf("Cidade2 vence\n");
     } else {
-        prinf("Empate\n");
+        printf("Empate\n");
     }
 
     printf("Área: ");
